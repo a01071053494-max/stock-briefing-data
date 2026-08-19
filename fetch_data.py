@@ -22,6 +22,12 @@ TICKERS = [
     {"name": "KIWOOM 국고채10년", "code": "148070", "yf": "148070.KS"},
     {"name": "TIGER 미국S&P500", "code": "360750", "yf": "360750.KS"},
     {"name": "TIGER 미국배당다우존스", "code": "458730", "yf": "458730.KS"},
+    {"name": "코카콜라", "code": "KO", "yf": "KO"},
+    {"name": "애플", "code": "AAPL", "yf": "AAPL"},
+    {"name": "리비안 오토모티브", "code": "RIVN", "yf": "RIVN"},
+    {"name": "SCHWAB US DIVIDEND EQUITY", "code": "SCHD", "yf": "SCHD"},
+    {"name": "버크셔 해서웨이 B", "code": "BRK.B", "yf": "BRK-B"},
+    {"name": "VOLATILITY SHARES BITCOIN STRATEGY 2X", "code": "BITX", "yf": "BITX"},
 ]
 
 KST = timezone(timedelta(hours=9))
