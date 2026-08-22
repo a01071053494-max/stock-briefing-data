@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-08-21T23:00:10.049181+00:00",
-  "generatedAtKst": "2026-08-22T08:00:10.049189+09:00",
+  "generatedAtUtc": "2026-08-22T22:56:07.735302+00:00",
+  "generatedAtKst": "2026-08-23T07:56:07.735308+09:00",
   "source": "yfinance",
   "stocks": [
     {
@@ -253,7 +253,7 @@
       "ma20DataPoints": 20,
       "ma20GapPct": 3.84,
       "trendVsMa20": "above",
-      "volume": 15527401
+      "volume": 15534900
     },
     {
       "name": "애플",
@@ -267,7 +267,7 @@
       "ma20DataPoints": 20,
       "ma20GapPct": -1.59,
       "trendVsMa20": "below",
-      "volume": 42216056
+      "volume": 46768100
     },
     {
       "name": "리비안 오토모티브",
@@ -281,7 +281,7 @@
       "ma20DataPoints": 20,
       "ma20GapPct": 6.8,
       "trendVsMa20": "above",
-      "volume": 34973009
+      "volume": 35262600
     },
     {
       "name": "SCHWAB US DIVIDEND EQUITY",
@@ -295,7 +295,7 @@
       "ma20DataPoints": 20,
       "ma20GapPct": 2.93,
       "trendVsMa20": "above",
-      "volume": 19176246
+      "volume": 19718200
     },
     {
       "name": "버크셔 해서웨이 B",
@@ -309,7 +309,7 @@
       "ma20DataPoints": 20,
       "ma20GapPct": -2.74,
       "trendVsMa20": "below",
-      "volume": 4620603
+      "volume": 4625000
     },
     {
       "name": "VOLATILITY SHARES BITCOIN STRATEGY 2X",
@@ -323,7 +323,7 @@
       "ma20DataPoints": 20,
       "ma20GapPct": 36.89,
       "trendVsMa20": "above",
-      "volume": 30056017
+      "volume": 31234300
     }
   ]
 }
