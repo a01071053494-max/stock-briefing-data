@@ -1,6 +1,6 @@
 {
-  "generatedAtUtc": "2026-11-07T01:53:48.698032+00:00",
-  "generatedAtKst": "2026-11-07T10:53:48.698039+09:00",
+  "generatedAtUtc": "2026-11-08T01:24:43.190056+00:00",
+  "generatedAtKst": "2026-11-08T10:24:43.190062+09:00",
   "source": "yfinance",
   "stocks": [
     {
@@ -273,15 +273,15 @@
       "name": "리비안 오토모티브",
       "code": "RIVN",
       "yf": "RIVN",
-      "asOfDate": "2026-11-05",
-      "close": 13.29,
-      "prevClose": 14.06,
-      "changePct": -5.48,
-      "ma20": 12.64,
+      "asOfDate": "2026-11-06",
+      "close": 13.61,
+      "prevClose": 13.29,
+      "changePct": 2.41,
+      "ma20": 12.62,
       "ma20DataPoints": 20,
-      "ma20GapPct": 5.14,
+      "ma20GapPct": 7.84,
       "trendVsMa20": "above",
-      "volume": 20155311
+      "volume": 20169600
     },
     {
       "name": "SCHWAB US DIVIDEND EQUITY",
@@ -315,15 +315,15 @@
       "name": "VOLATILITY SHARES BITCOIN STRATEGY 2X",
       "code": "BITX",
       "yf": "BITX",
-      "asOfDate": "2026-11-05",
-      "close": 15.84,
-      "prevClose": 17.6,
-      "changePct": -10.0,
-      "ma20": 18.08,
+      "asOfDate": "2026-11-06",
+      "close": 15.68,
+      "prevClose": 15.84,
+      "changePct": -1.01,
+      "ma20": 17.92,
       "ma20DataPoints": 20,
-      "ma20GapPct": -12.39,
+      "ma20GapPct": -12.5,
       "trendVsMa20": "below",
-      "volume": 4875443
+      "volume": 4898500
     }
   ]
 }
